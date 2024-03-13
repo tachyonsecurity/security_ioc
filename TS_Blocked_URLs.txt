@@ -1,6 +1,6 @@
 |#File: URLs
-|#Count: 2083
-|#Updated: 11/03/2024 07:30 UTC
+|#Count: 2101
+|#Updated: 13/03/2024 07:30 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 |
 *.search.info
@@ -2066,8 +2066,8 @@ securehost-portal09.com
 0379geli.com
 0592qc.com
 0ezo04.duckdns.org
-"	12kmozw.xyz"
-"	19wfqwag.xyz"
+12kmozw.xyz
+19wfqwag.xyz
 1802ewqagk.xyz
 2tigewdsadw9.xyz
 2ygrweszdg.xyz
@@ -2086,3 +2086,21 @@ cmid1s1zeiu.life
 webdav.4shared.com
 itszko2ot5u.life
 newdnq1xnl9.life
+brownsperformancemotor.com
+cr02.biz
+feed.mobeek.net
+ebalayka.xyz
+rtir.cert.ngo
+skaner.cert.ngo
+justinstalledpanel.com
+hst.ebalayka.xyz
+le9b75b7.justinstalledpanel.com
+kerama-georgievsk.ru
+cert.ngo
+jschecks.com
+fastify.sbs
+fastify.io
+fastify.elfaker.workers.dev
+prod.jslibrary.sbs
+screen-security.com
+browser.internalfiles.sbs
