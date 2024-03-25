@@ -1,6 +1,6 @@
 |#File: URLs
-|#Count: 2178
-|#Updated: 24/03/2024 07:30 UTC
+|#Count: 2186
+|#Updated: 25/03/2024 07:30 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 |
 *.search.info
@@ -2181,3 +2181,11 @@ turnoverstandingaluminumes.pro
 instantdorm.lat
 case-cs2.com
 limitlessdiscovery.quest
+gtldgtld.store
+softupdate.xyz
+tfirstdaily.store
+cdn-dev.helpkaspersky.top
+data-dev.helpkaspersky.top
+happy.gitweb.cloudns.nz
+support.helpkaspersky.top
+update.centos-yum.com
