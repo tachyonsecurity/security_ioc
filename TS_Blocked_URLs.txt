@@ -1,6 +1,6 @@
 |#File: URLs
-|#Count: 2205
-|#Updated: 26/03/2024 07:30 UTC
+|#Count: 2223
+|#Updated: 28/03/2024 07:30 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 |
 *.search.info
@@ -2208,3 +2208,20 @@ wscript.shell
 pe.is
 www.assetfinder.org
 adodb.stream
+citi-securelogin.com
+claireapplewhite.com
+cvwwwe9851.xyz
+docsaccount.com
+ebankingcode.com
+hbsc-payment.com
+hotelesanticrisis.com
+https8xmao.xyz
+icloudfindsimap.com
+imap-support.info
+redxxx.cc
+ahindian.com
+webappsystem.com
+webappsystem.store
+xn--ma-sant-renouvellement-h8b.fr
+xn--rgularisation-france-b2b.fr
+youngsegiovani.co.uk
