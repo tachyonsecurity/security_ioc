@@ -1,6 +1,6 @@
 |#File: URLs
-|#Count: 2223
-|#Updated: 28/03/2024 07:30 UTC
+|#Count: 2231
+|#Updated: 01/04/2024 07:30 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 |
 *.search.info
@@ -2225,3 +2225,12 @@ webappsystem.store
 xn--ma-sant-renouvellement-h8b.fr
 xn--rgularisation-france-b2b.fr
 youngsegiovani.co.uk
+ocsp.digicert.com
+ocsp.sectigo.com
+ocsp.usertrust.com
+rb.symcb.com
+s3-website-eu-west-1.amazonaws.com
+ssl.hwcdn.net
+status.thawte.com
+t8u4n6u7.ssl.hwcdn.net
+ts-aia.ws.symantec.com
