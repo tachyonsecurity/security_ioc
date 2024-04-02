@@ -1,6 +1,6 @@
 |#File: URLs
-|#Count: 2231
-|#Updated: 01/04/2024 07:30 UTC
+|#Count: 2249
+|#Updated: 02/04/2024 07:30 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 |
 *.search.info
@@ -2234,3 +2234,21 @@ ssl.hwcdn.net
 status.thawte.com
 t8u4n6u7.ssl.hwcdn.net
 ts-aia.ws.symantec.com
+web.mil
+http://mail.web.mil/
+https://www.defense.gov/Pentagon-Tours
+ler.defense.gov
+valor.defense.gov
+a23-201-182-155.deploy.static.akamaitechnologies.com
+a104-86-239-6.deploy.static.akamaitechnologies.com
+www.schneider-electric.com
+a23-60-47-59.deploy.static.akamaitechnologies.com
+schneider-electric.com
+nsc.perf1.com
+nsa.perf1.fr
+perf1.fr
+saspresence.perf1.com
+clipsal.com
+schneider-electric.bj
+nsz.perf1.fr
+sec7.encirca.com
