@@ -1,6 +1,6 @@
 |#File: URLs
-|#Count: 2471
-|#Updated: 08/05/2024 03:20 UTC
+|#Count: 2479
+|#Updated: 10/05/2024 10:05 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 |
 *.search.info
@@ -2474,3 +2474,11 @@ alsiga.com
 ariesjagnivas.com
 aryanlogisticpune.in
 azucania.com.ar
+cache.cloudswiftcdn.com
+cdn.metricastats.com
+cloud.edgerapidcdn.com
+content.gorapidcdn.com
+content.streamfastcdn.com
+fast.quickcontentnetwork.com
+ga.cdzanalytics.com
+gll.metricaga.com
