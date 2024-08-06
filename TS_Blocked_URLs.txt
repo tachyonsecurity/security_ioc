@@ -1,10 +1,10 @@
 |#File: URLs
-|#Count: 2555
-|#Updated: 03/08/2024 07:10 UTC
+|#Count: 2565
+|#Updated: 06/08/2024 07:10 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 |
-*.search.info
-*.search-portal.info
+search.info
+search-portal.info
 www.docksearches.info
 www.online-searches.info
 *.synology.me
@@ -2558,3 +2558,13 @@ blogsmashers.com
 grtambolalivein.com
 etoolsmart.com
 consultingap.com
+znacapital.com
+ethicarts.com
+zmtradinginc.com
+usamoneyworld.com
+choepellingtambola.com
+androidsvilla.com
+mykananga.com
+inikarilah.com
+hashirsec.com
+fashionstore7.com
