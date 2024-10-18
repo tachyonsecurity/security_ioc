@@ -1,6 +1,6 @@
 |#File: URLs
-|#Count: 2955
-|#Updated: 10/10/2024 07:10 UTC
+|#Count: 2965
+|#Updated: 18/10/2024 07:10 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 |
 search.info
@@ -2958,4 +2958,14 @@ https://www.mbxkpr.cn/
 https://www.mhgvjha.cn/
 https://www.jfdbusg.cn/?krdifzoo
 https://amazom.lovemfe.com/
+https://amazom.lovemfe.com/zjDWvT
+lovemfe.com
+amazom.lovemfe.com
+checkbot8634938602.duckdns.org
+indianstreetbets.ddns.net
+billpaycanada.online
+poorinfo.tk
+9twelve-srvcs.zapto.org
+peak.serveftp.net
+www.account-next.com
 
