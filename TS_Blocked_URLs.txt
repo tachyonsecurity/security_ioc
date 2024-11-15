@@ -1,6 +1,6 @@
 |#File: URLs
-|#Count: 3129
-|#Updated: 13/11/2024 07:10 UTC
+|#Count: 3169
+|#Updated: 15/11/2024 07:10 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 |
 search.info
@@ -3152,4 +3152,24 @@ smtp.nslookup.club
 hacktool.win32.fast
 5ncnt6z1.wikimedia.vip
 lzfhome.xyz
+ok3x377v3f.symantecupd.com
+7hln9yr3y6.symantecupd.com
+static.xx.fbcdn.net
+3vnwtuq9s.ithome.house
+qqfinance.ml
+hacktool.python.re
+facebook.com
+hksapd.dyndns.org
+www.lzfhome.xyz
+cookiestest.ml
+www.getdns.gd
+bm2l41risv.livehost.live
+library.gju.edu.jo.libezpro.xyz
+download.lzfhome.xyz
+dark.twwtteer.com
+primage.com.br
+adms-suport-up-datex8323.eu3.biz
+alphabitconsulting.com
+saojoaodaurtigars.com.br
+pwametalurgica.com.br
 
