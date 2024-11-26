@@ -1,5 +1,5 @@
 |#File: IPs
-|#Count: 4233
+|#Count: 4234
 |#Updated: 18/11/2024 18:00 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 |
@@ -4235,3 +4235,5 @@
 49.36.201.213
 122.161.242.30
 122.161.243.220
+122.161.243.150
+49.36.203.25
