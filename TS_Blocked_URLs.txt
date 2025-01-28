@@ -1,6 +1,6 @@
 |#File: URLs
-|#Count: 3750
-|#Updated: 23/01/2025 07:10 UTC
+|#Count: 3763
+|#Updated: 28/01/2025 07:10 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 |
 search-portal.info
@@ -3753,4 +3753,16 @@ vevijml2.life
 qblg0klz.life
 hyivgigf.life
 nnc9xesb.life
+microsoft-teams-download.burleson-appliance.net
+microsoft.teams-live.com
+guycev3v.life
+8zxvhrw3.life
+canyouseeme22.ddns.net
+amljpmbyfmqeawbekmbj.com
+amqjuwbophgefhbyfcbe.com
+prvefrqtacvoumltuhle.com
+ucqtkhqyfmqeawgjargt.com
+prboahqyfmqefcqjuhle.com
+kcvefrlokwqeawbekmvy.com
+ucqyuwvjacvtacgtpwqo.com
 
