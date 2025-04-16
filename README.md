@@ -1,4 +1,4 @@
-**Security_IOC_private**
+**Security_IOC**
 
 It is a repository that maintains indicators of compromise (IOCs) related to various types of malicious activities, including malicious domains, IPs, and hashes. These IOCs could encompass a range of threats such as malware, potentially unwanted programs (PUPs), browser hijackers, and phishing sites.
 Having separate text files for each category of IOCs (malicious domains, IPs, and hashes) can help organize the data and make it more manageable for security analysts to analyze and use for threat detection and response.
