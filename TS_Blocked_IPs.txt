@@ -1,6 +1,6 @@
 |#File: IP
 |#Count: 6589
-|#Updated: 29/09/2025 07:10 UTC
+|#Updated: 01/010/2025 07:10 UTC
 |#Maintained by: https://www.tachyonsecurity.com
 
 1.14.17.89
